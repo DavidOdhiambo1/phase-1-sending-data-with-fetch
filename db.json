@@ -1,30 +1,521 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "0be2",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e299",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1a4d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "290c",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "a89a",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "c627",
+      "userName": "David Odhiambo",
+      "userEmail": "david@gmail.com"
+    },
+    {
+      "id": "2821",
+      "userName": "David Odhiambo",
+      "userEmail": "david@gmail.com"
+    },
+    {
+      "id": "63d3",
+      "userName": "David Odhiambo",
+      "userEmail": "david@gmail.com"
+    },
+    {
+      "id": "ccad",
+      "userNam": "David Odhiambo",
+      "userEmail": "david@gmail.com"
+    },
+    {
+      "id": "280c",
+      "user": "David Odhiambo",
+      "userEmail": "david@gmail.com"
+    },
+    {
+      "id": "a20d",
+      "us": "David Odhiambo",
+      "userEmail": "david@gmail.com"
+    },
+    {
+      "id": "64e2",
+      "u": "David Odhiambo",
+      "userEmail": "david@gmail.com"
+    },
+    {
+      "id": "2081",
+      "n": "David Odhiambo",
+      "userEmail": "david@gmail.com"
+    },
+    {
+      "id": "01ae",
+      "name": "David Odhiambo",
+      "userEmail": "david@gmail.com"
+    },
+    {
+      "id": "66a5",
+      "name": "David Odhiambo",
+      "usermail": "david@gmail.com"
+    },
+    {
+      "id": "4982",
+      "name": "David Odhiambo",
+      "usmail": "david@gmail.com"
+    },
+    {
+      "id": "9d1e",
+      "name": "David Odhiambo",
+      "umail": "david@gmail.com"
+    },
+    {
+      "id": "6524",
+      "name": "David Odhiambo",
+      "mail": "david@gmail.com"
+    },
+    {
+      "id": "134b",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "d661",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "75e0",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "ca56",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "6c80",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "6ca1",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "1242",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "3046",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "5277",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "4d21",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "29fe",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "f259",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "b7cd",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "881f",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "d2a1",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "da9f",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "21b3",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "d80b",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "b997",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "074b",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "53ad",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "e38a",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "8b3f",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "5854",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "cc79",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "da65",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "ed18",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "46ac",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "4618",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "7516",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "0835",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "21a1",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "88ec",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "f5ad",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "5a8b",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "da0c",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "171c",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "5bd3",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "d8cd",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "15e6",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "ee95",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "10a9",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "60fd",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "e452",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "1d13",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "7e29",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "5b5d",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "29b7",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "0b38",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "e0b5",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "702c",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "6338",
+      "name": "David Odhiambo",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "66c9",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "3562",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "00d9",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "5462",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "14b9",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "c8aa"
+    },
+    {
+      "id": "c9a7",
+      "name": "d"
+    },
+    {
+      "id": "959d",
+      "name": "dav"
+    },
+    {
+      "id": "89f2",
+      "name": "davi"
+    },
+    {
+      "id": "e66a",
+      "name": "david"
+    },
+    {
+      "id": "6476",
+      "name": "david"
+    },
+    {
+      "id": "2434",
+      "name": "david"
+    },
+    {
+      "id": "5c5a",
+      "name": "david"
+    },
+    {
+      "id": "602a",
+      "name": "david",
+      "email": "da"
+    },
+    {
+      "id": "817b",
+      "name": "david",
+      "email": "dav"
+    },
+    {
+      "id": "686f",
+      "name": "david",
+      "email": "david"
+    },
+    {
+      "id": "0e99",
+      "name": "david",
+      "email": "david@"
+    },
+    {
+      "id": "2d16",
+      "name": "david",
+      "email": "david@g"
+    },
+    {
+      "id": "0a3c",
+      "name": "david",
+      "email": "david@gmai"
+    },
+    {
+      "id": "8345",
+      "name": "david",
+      "email": "david@gmail"
+    },
+    {
+      "id": "c53b",
+      "name": "david",
+      "email": "david@gmail."
+    },
+    {
+      "id": "444c",
+      "name": "david",
+      "email": "david@gmail.c"
+    },
+    {
+      "id": "f349",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "0079",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "2081",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "177a",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e2b3",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "757f",
+      "name": "",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "1cf6",
+      "name": "david",
+      "email": "david@gmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
